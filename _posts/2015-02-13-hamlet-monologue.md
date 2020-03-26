@@ -6,26 +6,27 @@ published: true
 date: '2020-03-23'
 ---
 - Pesquisador  
-2020 –  
-Ciência e tecnologia  
-[Laboratório de Análises e Pesquisas em Estatística Aplicada (LAPEA)](http://www.ppestbio.ufv.br/?page_id=2143)
 
 
-- Professor Temporário  
-Período: 2019 -2019  
-Florestal, Minas Gerais, Brasil  
-Disciplina: Estatística Aplicada às Ciências Biológicas e Agrárias, na disciplina CBF 790 - Tópicos  Especiais I, com duração de 30 horas (curso de verão).
 
-- Coordenador  
-Período: 2018 - 2019  
-Ciência e tecnologia  
+- Ensino  
+	- Professor
+		- Período: 2019 - atual  
+Instituto Federal Goiano, Goiás, Brasil  [IF Goiano](https://www.ifgoiano.edu.br/home/index.php/rio-verde.html)
+		- Período: 2014 -2015  
+Universidade Federal de Viçosa, Minas Gerais, Brasil  [UFV](https://www.ufv.br/)
+	- Tutor
+    	- Periodo:
+        Tutoria UFV nível 1
+        -Período: 
+        Tutoria UFV nível 2
+
+- Pesquisa
+	- Período 2018 - 2019
 GESTBIO - [Grupo de Estudo em Estatística Aplicada e Biometria](https://www.gestbio.ufv.br/)  
+	- Período 2019 - atual
+Geociências Aplicadas e Tecnologias - [GeoTec]https://www.facebook.com/GeoTecUFV
+	- 2020 –  atual
+Ciência e tecnologia - [Laboratório de Análises e Pesquisas em Estatística Aplicada (LAPEA)](http://www.ppestbio.ufv.br/?page_id=2143)
 
-
-
-
-- Instrutor  
-Empresa: Universidade Federal de Viçosa  
-2019 - 209  
-Ciência e tecnologia  
-Estatística Experimental: Análise com o software R (Treinamento - 24 horas)
+- Extensão
