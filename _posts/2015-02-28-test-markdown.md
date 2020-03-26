@@ -12,6 +12,6 @@ published: true
 date: '2020-03-23'
 ---
 
-- Professor de Matemática e Estatística
-- Jogador de vôlei
-- Fã de Geoestatística
+	- Professor de Matemática e Estatística
+	- Jogador de vôlei
+	- Fã de Geoestatística
