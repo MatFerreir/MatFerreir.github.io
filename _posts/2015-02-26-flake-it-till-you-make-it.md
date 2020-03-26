@@ -11,9 +11,11 @@ Universidade Federal de Viçosa(UFV)
 Período 2015 - atual
 
 
+
 - Mestre em Estatística Aplicada e Biometria  
 Universidade Federal de Viçosa(UFV)  
 Período 2013 – 2015  
+
 
 
 - Licenciaso em Matemática  
