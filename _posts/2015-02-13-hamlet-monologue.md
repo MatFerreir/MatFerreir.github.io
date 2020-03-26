@@ -5,10 +5,6 @@ tags: null
 published: true
 date: '2020-03-23'
 ---
-- Pesquisador  
-
-
-
 - Ensino  
 	- Professor
 		- Período: 2019 - atual  
@@ -21,12 +17,14 @@ Universidade Federal de Viçosa, Minas Gerais, Brasil  [UFV](https://www.ufv.br/
         -Período: 
         Tutoria UFV nível 2
 
+
 - Pesquisa
 	- Período 2018 - 2019
 GESTBIO - [Grupo de Estudo em Estatística Aplicada e Biometria](https://www.gestbio.ufv.br/)  
 	- Período 2019 - atual
-Geociências Aplicadas e Tecnologias - [GeoTec]https://www.facebook.com/GeoTecUFV
+Geociências Aplicadas e Tecnologias - [GeoTec](https://www.facebook.com/GeoTecUFV)
 	- 2020 –  atual
 Ciência e tecnologia - [Laboratório de Análises e Pesquisas em Estatística Aplicada (LAPEA)](http://www.ppestbio.ufv.br/?page_id=2143)
+
 
 - Extensão
