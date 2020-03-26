@@ -1,10 +1,10 @@
 # --- General options --- #
 
 # Name of website
-title: Cristiano Ferreira de Oliveira
+title: Matheus de Paula Ferreira
 
 # Short description of your site
-description: A virtual proof that I'm awesome
+description: Em construção
 
 # --- Local development options ---
 # If your website is hosted locally rather than on GitHub, then you need to uncomment the next two parameters to set the url and baseurl
@@ -68,7 +68,7 @@ author:
 # Para modificar, basta adicionar o link do perfil em SocialNetworks.yml
 social-network-links:
 #  rss: true
-  email: "cristiano2132.ufv@gmail.com"
+  email: "matheusferreiraufv@gmail.com"
   facebook: daattali
   github: daattali
 #  twitter: daattali
@@ -80,7 +80,7 @@ social-network-links:
 #  instagram: deanat78
 #  youtube: user/deanat78
 #  spotify: yourname
-#  telephone: +14159998888
+  telephone: +5531998608715
 #  steam: deanat78
 #  twitch: yourname
 #  yelp: yourname
