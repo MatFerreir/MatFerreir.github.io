@@ -8,7 +8,7 @@ date: '2020-03-23'
 ---
 - Doutorando em Estatística Aplicada e Biometria  
 Universidade Federal de Viçosa(UFV)  
-Período 2015 -
+Período 2015 - atual
 
 
 - Mestre em Estatística Aplicada e Biometria  
