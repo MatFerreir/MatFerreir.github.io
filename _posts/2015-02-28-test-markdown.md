@@ -9,7 +9,6 @@ gh-badge:
 tags: null
 comments: true
 published: true
-date: '2020-03-23'
 ---
 		- Professor de Matemática e Estatística
 		- Jogador de vôlei
