@@ -38,5 +38,4 @@ Universidade Federal de Viçosa, Minas Gerais, Brasil  [UFV](https://www.ufv.br/
 - Extensão
 
 	- Período:
-    Projeto de Libras
-    Projeto de Libras - [Surdo Cidadão](http://www.dma.ufv.br/surdocidadao/)
+    Projeto de Libras, Departamento de Matemática - [DMA-UFV](http://www.dma.ufv.br/dma/inicio.php)
