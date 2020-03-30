@@ -9,10 +9,9 @@ Meu nome é Cristiano.
 ### História
 
 
-Sou graduado em Licenciatura em Matemática pela Universidade Federal de Viçosa (2015) e mestrado em Estatística Aplicada e Biometria pela Universidade Federal de Viçosa (2018). 
-Atualmente sou doutorando no programa de pós-graduação em Estatística Aplicada e Biometria da UFV.
-Sou membro do Laboratório de Análises e Pesquisas em Estatística Aplicada (LAPEA). 
-Atuo principalmente com gerenciamento e análise de grandes conjuntos de dados na área de biometria, desenvolvendo trabalhos em seleção genômica ampla (GWS). 
+Licenciado em Matemática pela Universidade Federal de Viçosa (2013) e Mestre em Estatística Aplicada e Biometria pela Universidade Federal de Viçosa (2015). 
+Atualmente sou professor no Departamento de Matemática do Instituto Federal Goiano, campus Rio Verde, doutorando no programa de pós-graduação em Estatística Aplicada e Biometria da Universidade Federal de Viçosa.
+Membro dos grupos de pesquisa Laboratório de Análises e Pesquisas em Estatística Aplicada (LAPEA) e Geociências Aplicadas e Tecnologias (GeoTec).
 
 ### Competências
 - Conhecimentos avançados em programação;
