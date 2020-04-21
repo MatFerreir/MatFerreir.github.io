@@ -6,18 +6,18 @@ tags: null
 published: true
 date: '2020-03-23'
 ---
-- Doutorando em Estatística Aplicada e Biometria  
-Universidade Federal de Viçosa(UFV)  
-Período 2015 - atual
+- **_Doutorando em Estatística Aplicada e Biometria_**  
+
+  **.** 2015 – atual     
+Universidade Federal de Viçosa - [Departamento de Estatística](http://www.det.ufv.br/)
+
+- **_Mestre em Estatística Aplicada e Biometria_**  
+
+  **.** 2013 – 2015     
+Universidade Federal de Viçosa - [Departamento de Estatística](http://www.det.ufv.br/)  
 
 
+- **_Licenciatura em Matemática_**  
 
-- Mestre em Estatística Aplicada e Biometria  
-Universidade Federal de Viçosa(UFV)  
-Período 2013 – 2015  
-
-
-
-- Licenciaso em Matemática  
-Universidade Federal de Viçosa(UFV)  
-Período 2008 - 2013
+  **.** 2008 – 2013     
+Universidade Federal de Viçosa - [Departamento de Matemática]()
