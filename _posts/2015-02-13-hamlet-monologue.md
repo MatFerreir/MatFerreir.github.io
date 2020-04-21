@@ -9,7 +9,7 @@ date: '2020-03-23'
 - **_Ensino_**  
 
   **1.** 2020 – atual  
-Instituto Federal Goiano, Goiás, Brasil  [Instituto Federal Goiano](https://www.ifgoiano.edu.br/home/index.php/rio-verde.html)  
+[Instituto Federal Goiano](https://www.ifgoiano.edu.br/home/index.php/rio-verde.html)  
 **–** Disciplinas:  
 **.** Matemática para Informática **(RV.INF619)**  
 **.** Estatística Básica **(RV.EXA809)** / **(RV.EXA810)** / **(RV.EXA723)**  
@@ -17,7 +17,7 @@ Instituto Federal Goiano, Goiás, Brasil  [Instituto Federal Goiano](https://www
 **.** Cálculo Diferencial e Integral I **(Grad.CDI.03)**     
 
 	**2.** 2014 – 2015  
-Universidade Federal de Viçosa, Minas Gerais, Brasil  [Universidade Federal de Viçosa](https://www.ufv.br/)  
+    [Universidade Federal de Viçosa](https://www.ufv.br/)  
 	**–** Disciplinas:  
     **.** Introdução à Álgebra Linear **(MAT137)**  
     **.** Cálculo I **(MAT146)**  
