@@ -21,7 +21,7 @@ description: Em Construção
 # List of links in the navigation bar
 navbar-links:
   Sobre Mim: "aboutme"
-  Projetos:
+  Projetos: "projects"
     
   Publicações:
 
