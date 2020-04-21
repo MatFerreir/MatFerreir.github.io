@@ -22,7 +22,6 @@ description: Em Construção
 navbar-links:
   Sobre Mim: "aboutme"
   Projetos: "projects"
-    
   Publicações:
 
 # Image to show in the navigation bar - image must be a square (width = height)
